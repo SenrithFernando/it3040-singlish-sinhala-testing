@@ -182,7 +182,7 @@ const TEST_DATA = {
       "tcId": "Pos_Fun_024",
       "name": "Convert long paragraph style input (past tense narrative)",
       "length": "L",
-      "input": "mama adha udhaeesanayen paasal giyaa. passee office giyaa. raee 9.00 venakan vaeda kaLaa. iita passe gedhara aavaa, kaema kaalaa nidhaagaththa.",
+      "input": "mama adha udhaeesanayen paasal giyaa. passee office giyaa. raee 9.00 venakan vaeda kaLaa. iita passe gedhara aavaa, kaema kaalaa nidhaagaththa. api heta aluth plan ekak hadhamu.",
       "expected": "මම අද උදෑසනයෙන් පාසල් ගියා. පස්සේ office ගියා. රෑ 9.00 වෙනකන් වැඩ කළා. ඊට පස්සෙ ගෙදර ආවා, කැම කාලා නිදාගත්ත."
     }
   ],
